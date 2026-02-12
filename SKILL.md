@@ -1,10 +1,9 @@
 ---
 name: perceiving-beyond-appearances
-description: See beyond surface appearances to perceive true intentions, hidden dynamics,
-  and what is not being said or shown.
+description: See beyond surface appearances to perceive true intentions, hidden dynamics, and what is not being said or shown.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - perceiving-beyond-appearances
