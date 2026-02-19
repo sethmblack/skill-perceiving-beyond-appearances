@@ -3,8 +3,8 @@ name: perceiving-beyond-appearances
 description: See beyond surface appearances to perceive true intentions, hidden dynamics, and what is not being said or shown.
 license: MIT
 metadata:
+  version: 1.0.4658
   author: sethmblack
-  version: 1.0.4657
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - perceiving-beyond-appearances
